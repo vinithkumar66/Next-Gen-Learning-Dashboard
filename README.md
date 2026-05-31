@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EduPulse — Next-Gen Student Analytics Dashboard
 
 A highly performant, dynamic academic dashboard for tracking semestral progress, courses, and calendar schedules. Designed as a proof-of-concept student panel built on Next.js 16 (App Router), Tailwind CSS (v4), Framer Motion, and `@supabase/ssr`.
@@ -45,3 +46,6 @@ create table courses (
 ```
 
 *Note: Supported `icon_name` options in the frontend include: `Code2`, `Sparkles`, `Braces`, and `Database`.*
+=======
+# Next-Gen-Learning-Dashboard
+>>>>>>> 4d714df25d0d3aa924cb44f464420a5a7a83a4f1
