@@ -131,7 +131,7 @@ export function Sidebar({ isCollapsed, onToggle }: SidebarProps) {
       <footer className="space-y-4 pt-4 border-t border-white/[0.05]">
         <div className="flex items-center gap-3 px-1.5 overflow-hidden">
           <div className="h-9 w-9 shrink-0 rounded-full bg-slate-850 border border-white/[0.06] flex items-center justify-center text-xs font-bold text-indigo-400">
-            JD
+            VK
           </div>
           <div
             className={cn(
@@ -139,8 +139,8 @@ export function Sidebar({ isCollapsed, onToggle }: SidebarProps) {
               isCollapsed ? "hidden" : "hidden xl:block"
             )}
           >
-            <p className="text-xs font-bold text-slate-200 truncate">John Doe</p>
-            <p className="text-[10px] text-slate-500 truncate">john@edu.com</p>
+            <p className="text-xs font-bold text-slate-200 truncate">Vinith Kumar</p>
+            <p className="text-[10px] text-slate-500 truncate">vinithkumar@edu.com</p>
           </div>
         </div>
         <button

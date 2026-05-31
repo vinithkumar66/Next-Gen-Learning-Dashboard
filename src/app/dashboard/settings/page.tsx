@@ -62,7 +62,7 @@ export default function SettingsPage() {
                     <input
                       type="text"
                       disabled
-                      value="John Doe"
+                      value="Vinith Kumar"
                       className="w-full rounded-xl bg-slate-950/60 border border-white/[0.06] px-4 py-2.5 text-xs font-semibold text-slate-400 outline-none select-all"
                     />
                   </div>
@@ -73,7 +73,7 @@ export default function SettingsPage() {
                     <input
                       type="email"
                       disabled
-                      value="john.doe@university.edu"
+                      value="vinithkumar@university.edu"
                       className="w-full rounded-xl bg-slate-950/60 border border-white/[0.06] px-4 py-2.5 text-xs font-semibold text-slate-400 outline-none select-all"
                     />
                   </div>

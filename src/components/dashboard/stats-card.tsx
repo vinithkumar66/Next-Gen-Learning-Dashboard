@@ -17,7 +17,7 @@ function formatActiveCourseMessage(count: number): string {
 }
 
 export function StatsCard({
-  studentName = "John Doe",
+  studentName = "Vinith Kumar",
   gpa = "3.92",
   studyHours = 42,
   activeCourses = 4,

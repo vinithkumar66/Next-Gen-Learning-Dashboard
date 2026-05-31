@@ -131,7 +131,7 @@ export default async function DashboardPage() {
           {/* Row 1, Col 1-2: Hero Greetings */}
           <CourseGridItem colSpan={2} rowSpan={1}>
             <StatsCard
-              studentName="John Doe"
+              studentName="Vinith Kumar"
               gpa="3.92"
               studyHours={42}
               activeCourses={courses.filter((c) => c.progress > 0 && c.progress < 100).length}
